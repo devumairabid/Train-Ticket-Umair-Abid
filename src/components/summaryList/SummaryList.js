@@ -49,7 +49,7 @@ const SummaryList = () => {
                             </View>
                             <View style={{ display: 'flex', gap: 4 }}>
                                 <Text>SLO</Text>
-                                <Text>18.35</Text>
+                                <Text>18.35add</Text>
                             </View>
                         </View>
                         <View style={{ display: 'flex', flexDirection: 'row', marginTop: 12, gap: 20 }}>
